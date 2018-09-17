@@ -1,0 +1,9 @@
+{
+  "name": "browser_sniffer",
+  "version": "1.0.0",
+  "description": "Ezy_JS Browser Sniffer",
+  "main": "browser.html",
+  "author": "Hendrik Eduard Kuiper",
+  "github repository": "https://github.com/HendrikEduard/Ezy_JS-Browser-Sniffer",
+  "license": "MIT"
+}
